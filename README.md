@@ -2,25 +2,8 @@
 
 ## About Website
 
-### Tools Used 
+### Tools Used
 
 ### Images
 
 ### Live Demo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
